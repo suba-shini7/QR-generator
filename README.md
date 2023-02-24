@@ -1,6 +1,6 @@
 # QR-generator
 
-## [Preview Site]()
+## [Preview Site](https://suba-shini7.github.io/QR-generator/)
 
 # Screenshots
 ![#qr1](https://user-images.githubusercontent.com/125429575/221208324-d8597861-d65a-4733-885a-7946b94add78.PNG)
